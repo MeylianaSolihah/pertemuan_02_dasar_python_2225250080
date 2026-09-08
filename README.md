@@ -44,7 +44,7 @@ Buka terminal di folder utama repository, lalu jalankan program dengan perintah:
 | 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.50, 1.00) |
 
 ## Refleksi
-Setelah mengerjakan latihan ini, saya memahami penggunaan variabel, konstanta, tipe data, input dan output, konversi tipe data, serta operator dalam Python. Saya juga memahami cara menghitung jarak dan titik tengah dari dua titik koordinat menggunakan operasi aritmatika Python.
+Setelah mengerjakan latihan ini, saya memahami penggunaan variabel, konstanta, tipe data, input dan output, konversi tipe data, serta operator dalam Python. Saya juga memahami cara menghitung jarak dan titik tengah dari dua titik koordinat menggunakan operasi aritmatika Python. Saya juga belajar melakukan pengujian program dengan beberapa kasus input untuk memastikan hasil perhitungan sudah benar.
 
 ## Sumber
 - Modul Pertemuan 02 - Dasar Python.
