@@ -48,4 +48,4 @@ Setelah mengerjakan latihan ini, saya memahami penggunaan variabel, konstanta, t
 
 ## Sumber
 - Modul Pertemuan 02 - Dasar Python.
-- Dokumentasi Python.
+- Dokumentasi Python.                                                                                            
